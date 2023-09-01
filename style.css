@@ -197,7 +197,7 @@ input:focus{
         text-align: justify;
     }
     header h1{
-        width: 45%;
+        width: 49%;
     }
 }
 @media only screen and (min-width: 401px) and (max-width: 600px) {
@@ -222,7 +222,7 @@ input:focus{
         text-align: justify;
     }
     header h1{
-        width: 35%;
+        width: 40%;
     }
      /* .add_ons{
         display: flex;
